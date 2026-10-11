@@ -1,2 +1,2 @@
 # supreme-PCB
-For Hack Club Half Life
+For Hack Club Half-Life
