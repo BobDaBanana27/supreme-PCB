@@ -1,14 +1,13 @@
 # Bill of Materials (BOM)
 
-| Part Number | Description | Quantity | Unit Cost | Total Cost | Notes |
-| :--- | :--- | :---: | :---: | :---: | :--- |
-| P-101 | Main Control Board | 1 | $45.00 | $45.00 | Rev B, microcontroller included |
-| P-102 | Power Supply Unit (12V) | 1 | $22.50 | $22.50 | Input: 100-240VAC |
-| P-103 | Aluminum Enclosure | 1 | $15.00 | $15.00 | Custom anodized black |
-| P-104 | M3 Mounting Hardware Kit | 2 | $3.00 | $6.00 | Stainless steel screws & standoffs |
-| P-105 | Wire Harness Assembly | 1 | $8.50 | $8.50 | 30cm pre-crimped cables |
-
-## Summary
-* **Total Items:** 6 units across 5 unique parts
-* **Total Estimated Cost:** $97.00
-_No parts listed yet._
+| Part | Serial Number / Type | Quantity | Approx. Cost USD (Total) |
+| :--- | :--- | :---: | :---: |
+| USB Connector | USB4120-03-C | 1.0 | $1 |
+| Microcontroller Board | RP2040-ZERO | 1.0 | $5 |
+| Rotary Encoders | PEC11R-4215F-S0024 | 2.0 | $6 |
+| Tactile Buttons | KMR221GLFS | 6.0 | $6 |
+| OLED Display | HS96L03W2C03 | 1.0 | $3 |
+| Voltage Regulator | TC1262-3.3VDB | 1.0 | $1 |
+| Resistors | 5.1k Resistors | 2.0 | $2 |
+| Capacitor | 100nF Capacitor | 1.0 | $2 |
+| **Total** | | | **$26** |
