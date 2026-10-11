@@ -24,7 +24,7 @@ The first hour consisted of nothing much but research into parts and fitting wit
 
 ![Screenshot 2026-10-11 150711](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fpT4vKaaCxCaCu9yi3OynxGXkAPlXNzI/2921df7d1438104c107f809aab1037e5a335e1c69833e30819b1505ec5ea0e74.png)
 
-Hours 2-5 all consisted of working inside KiCad to build and test the PCB.
+Hours 2-7 all consisted of working inside KiCad to build and test the PCB.
 
 For the PCB layout file, I built out a standard 1.6 mm thick board on an A4 sheet using KiCad. On the board, I used a USB-C connector for power and data, the RP2040-Zero as the computer, a couple of rotary encoders for dial controls, six tactile switches for the macro buttons, and an OLED display for visuals. To wrap up the power side, I added a 3.3V regulator along with its supporting components.
 
