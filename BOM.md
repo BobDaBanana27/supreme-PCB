@@ -21,7 +21,7 @@
 | [CFM14JT5K10](https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CFM14JT5K10/1742231) | 5.1k Resistors | 2 | $0.16 | $0.32 | [Digikey](https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CFM14JT5K10/1742231) |
 | [100nF Capacitor](https://www.amazon.ca/100pcs-50V-Ceramic-Capacitor-100nF/dp/B0C5TD12T1?th=1) | Capacitor. | 1 | $2.50 | $2.50 | [Amazon](https://www.amazon.ca/100pcs-50V-Ceramic-Capacitor-100nF/dp/B0C5TD12T1?th=1) |
 | **Parts subtotal** | — | — | — | **$17.95** | — |
-| **Tax & shipping** | — | — | — | **$12.00** | — |
-| **Total** | — | — | — | **$29.95** | — |
+| **Tax & shipping** | — | — | — | **$12.05** | — |
+| **Total** | — | — | — | **$30.00** | — |
 
-$0.05 left of the tier's funding.
+**$0.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
