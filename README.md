@@ -25,3 +25,6 @@ The first hour consisted of nothing much but research into parts and fitting wit
 For the schematic, I split the layout into neat, manageable blocks covering USB power and regulation, the RP2040 controller, custom buttons, rotary dials, and a status display. Finally, I wired up all the key nets, including VBUS, +3V3, GND, the button lines, the encoder pins, ENC1_PUSH, and the I2C bus lines.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fpT4vKaaCxCaCu9yi3OynxGXkAPlXNzI/ae1d1c89df665b954f870a3923c5b0633365344cbadc82800cf47d374276b1a0.png)
+
+
+EDIT: The image at the top **is** the final PCB.
